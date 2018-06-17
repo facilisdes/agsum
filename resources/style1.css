@@ -1,0 +1,105 @@
+@font-face {
+	font-family: gothic;
+	src: url(/resources/gothic.ttf);
+}
+
+#timerDiv
+{
+	background-color: transparent;
+	text-align:center;
+	padding: 0;
+	margin-bottom: 0.7em;
+	color: #111111;
+	font-size: 1em;
+}
+
+body {
+	font-family: gothic;
+	background-color:#fff;
+}
+
+.contentDiv
+{
+	max-width:50em;
+	min-width:23em;
+	background-color: #fff;
+	color: #111111;
+	margin: 0 auto;
+	border-radius: 0.4em;
+	border-width: 1em;
+	width: 75%;
+	padding: 1em;
+
+	border-top:0.1px solid #111111;
+	border-right:0.1px solid #111111;
+	border-left:0.1px solid #111111;
+	border-bottom:0.1px solid #111111;
+	border-radius:0.2em;
+}
+#pageContent
+{
+	margin-top: 1em;
+}
+
+#summaryContent
+{
+	text-align:justify;
+	margin-bottom: 1em;
+	margin-top: 1em;
+}
+
+#name 
+{
+    font-size: 2.65em;
+	text-align: center;
+	margin: 0.2em;
+	padding:0.2em;
+}
+
+.inner_div
+{
+	border: 1em inset transparent;
+}
+
+
+#yandex_text
+{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	vertical-align: 2px;
+}
+
+#searchForm{
+	border-top:0.1px solid #111111;
+	border-right:0.1px solid #111111;
+	border-left:0.1px solid #111111;
+	border-bottom:0.1px solid #111111;
+	border-radius:0.2em;
+	padding:0.5em 0.5em 0.5em 0;
+	position:relative;
+	height:1.3em;
+	background-color: #fff;
+}
+
+#search_input{
+	border:none;
+	width: 94%;
+	left:1%;
+	right:8px;
+	height:24px;
+	position:absolute;
+	font-size:16px;
+	background-color: #ffffff;
+	color:#111111;
+}
+#search_button{
+	display: inline-block;
+	width: 24px;
+	height: 24px;
+	position: absolute;
+	right: 0.5em;
+	border: none;
+	background:url(/resources/icon2.png) no-repeat;
+	background-size: 24px;
+	background-color: #fff;
+	cursor: pointer;
+}

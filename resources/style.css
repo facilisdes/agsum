@@ -1,0 +1,147 @@
+@font-face {
+	font-family: gothic;
+	src: url(/resources/gothic.ttf);
+}
+
+#timerDiv
+{
+	background-color: transparent;
+	text-align:center;
+	padding: 0;
+	margin-bottom: 0.7em;
+	color: black;
+	font-size: 1em;
+}
+
+body {
+	font-family: gothic;
+	/*background-color:#111111;*/
+	background:url("/resources/asteroids.jpg");
+}
+
+.contentDiv
+{
+	background-color: white;
+	color: black;
+	border-radius: 0.4em;
+	border-width: 1em;
+	padding: 5%;
+	opacity: 0.95;
+}
+#pageContent
+{
+	margin-top: 2em;
+}
+
+#feedbackContent
+{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding: 1em 2em 1em;
+}
+.hide
+{
+	display: none;
+}
+
+#summaryContent
+{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding: 1em 2em 1em;
+}
+
+#summaryContent a
+{
+	color:black;
+}
+
+#name 
+{
+    font-size: 5.3vh;
+	text-align: center;
+	margin: 0.2em;
+	padding:0.2em;
+
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+
+	-ms-word-break: break-all;
+	/* This is the dangerous one in WebKit, as it breaks things wherever */
+	word-break: break-all;
+	/* Instead use this non-standard one: */
+	word-break: break-word;
+
+	/* Adds a hyphen where the word breaks, if supported (No Blink) */
+	-ms-hyphens: auto;
+	-moz-hyphens: auto;
+	-webkit-hyphens: auto;
+	hyphens: auto;
+}
+
+.feedbackReportButton
+{
+	background-color: white; /* Green */
+	border: 1px solid black;
+	color: black;
+	margin: 0 1em;
+	padding: 1em 2em;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 1em;
+}
+
+.fbIcon
+{
+	height: 1.6em;
+	width: 1.6em;
+	transition: 1s;
+	fill:grey;
+}
+
+.fbIconSelected
+{
+	height: 1.6em;
+	width: 1.6em;
+	transition: 1s;
+	fill:black;
+}
+
+
+.fbIcon:hover
+{
+	fill:black;
+
+}
+
+.inner_div
+{
+
+}
+
+#imagediv
+{
+	padding-top: 1em;
+}
+
+#yandex_text
+{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	vertical-align: 2px;
+}
+
+#searchForm{
+
+}
+
+#search_input{
+	width: 100%;
+	height: 70%;
+	margin-top:1em;
+}
+#search_button{
+	width: 100%;
+	height: 70%;
+	margin-top:1em;
+}

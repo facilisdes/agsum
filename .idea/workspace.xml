@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd4d2984-5496-4a28-9e14-d5f0fad3ccbb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>href</find>
+      <find>sect</find>
+      <find>img</find>
+      <find>domain</find>
+      <find>toptitle</find>
+      <find>echo</find>
+      <find>count_first</find>
+      <find>$siteContentDomainCacheID</find>
+      <find>:</find>
+      <find>в</find>
+      <find>title</find>
+      <find>replaceCEOTagsWords</find>
+      <find>navig</find>
+      <find>naviga</find>
+      <find>$objectSiteContentCache</find>
+      <find>$siteContentCachePath</find>
+      <find>$siteContentCacheID</find>
+      <find>button</find>
+      <find>еще</find>
+      <find>$menuString</find>
+      <find>search_input</find>
+      <find>icon</find>
+      <find>row</find>
+      <find>inner_</find>
+      <find>j</find>
+      <find>journal</find>
+      <find>journal.</find>
+      <find>L</find>
+      <find>LOG_REG</find>
+      <find>LOG_REGULAR_LOGFILE_PATH</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;/build/img</replace>
+      <replace>&quot;&lt;?=SITE_TEMPLATE_PATH?&gt;/build/img</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\projects\zs</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/blocks/callback1.php" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/components/bitrix/menu/top_new/template.php" />
+        <option value="$PROJECT_DIR$/include/blocks/reviews.php" />
+        <option value="$USER_HOME$/Desktop/Компания _Закупки Спорт__ Спортивное оборудование и инвентарь для муниципальных и государственных учреждений.html" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/components/bitrix/news.list/reviews_new/template.php" />
+        <option value="$PROJECT_DIR$/.default.menu.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/local/php_interface/const.php" />
+        <option value="$PROJECT_DIR$/include/menus/default.php" />
+        <option value="$PROJECT_DIR$/include/menus/bsk.php" />
+        <option value="$PROJECT_DIR$/include/menus/default_bottom.php" />
+        <option value="$PROJECT_DIR$/include/menus/gtosport.php" />
+        <option value="$PROJECT_DIR$/include/menus/school.php" />
+        <option value="$PROJECT_DIR$/include/menus/school1.php" />
+        <option value="$PROJECT_DIR$/include/menus/sp.php" />
+        <option value="$PROJECT_DIR$/include/menus/sp1.php" />
+        <option value="$PROJECT_DIR$/include/blocks/delivery.php" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/components/bitrix/menu/bottom_new/template.php" />
+        <option value="$PROJECT_DIR$/sitemap.xml" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/build/js/main.min.js" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/components/remark/iblock.element.add.form/call2/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/components/remark/iblock.element.add.form/call1/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/components/remark/iblock.element.add.form/call3/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/components/remark/iblock.element.add.form/call_on_detail/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/components/bitrix/news.list/products_new/style.css" />
+        <option value="$PROJECT_DIR$/urlrewrite.php" />
+        <option value="$PROJECT_DIR$/sitemap_generator.php" />
+        <option value="$PROJECT_DIR$/include/blocks/crumbs.php" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/components/bitrix/news.detail/product/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/footer.php" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/header.php" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/components/bitrix/news.list/advantages_slider/template.php" />
+        <option value="$PROJECT_DIR$/detail.php" />
+        <option value="$PROJECT_DIR$/include/blocks/advantages_slider.php" />
+        <option value="$PROJECT_DIR$/local/php_interface/init.php" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/build/index.html" />
+        <option value="$PROJECT_DIR$/local/php_interface/functions.php" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/components/bitrix/news.list/products_new/template.php" />
+        <option value="$PROJECT_DIR$/local/templates/import_sport/components/bitrix/news.list/products_slider/template.php" />
+        <option value="$PROJECT_DIR$/Response/ResponseHandler.php" />
+        <option value="$PROJECT_DIR$/Settings/SettingsPicker.php" />
+        <option value="$PROJECT_DIR$/DB/CachingWorker.php" />
+        <option value="$PROJECT_DIR$/agsum.php" />
+        <option value="$PROJECT_DIR$/DB/General.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/resources/style.css" />
+        <option value="$PROJECT_DIR$/resources/js/script.js" />
+        <option value="$PROJECT_DIR$/settings.php" />
+        <option value="$PROJECT_DIR$/Main.php" />
+        <option value="$PROJECT_DIR$/Logger.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9001" />
+  <component name="PhpServers">
+    <servers>
+      <server host="agsum" id="0dfe42a3-8e06-4cc4-a09d-508b699f5789" name="agsum" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\OpenServer\domains\agsum" selected_validation_type="LOCAL" web_path_to_validation_script="agsum" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.0.8 x64" />
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="zs" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agsum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agsum" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agsum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agsum" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agsum" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agsum" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../modules/php/PHP-7-x64/ext/php_xdebug-2.5.4-7.0-vc14-x86_64.dll" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\zs\local\templates\import_sport\build\js" />
+      <recent name="C:\OpenServer\domains\zs\test" />
+      <recent name="C:\OpenServer\domains\zs\include\menus" />
+      <recent name="C:\OpenServer\domains\zs\local\templates\import_sport\components\remark\iblock.element.add.form" />
+      <recent name="C:\OpenServer\domains\zs\include\blocks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\projects\zs\local\templates\import_sport\components\bitrix\news.detail\product" />
+      <recent name="C:\xampp\projects\zs" />
+      <recent name="C:\xampp\projects\zs\local\templates\import_sport\components\bitrix\news.list\products" />
+      <recent name="C:\xampp\projects\zs\local\templates\import_sport\components\bitrix\news.list\products\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeunitConfigurationType" factoryName="Nodeunit">
+      <setting name="nodePath" value="project" />
+      <envs />
+      <setting name="nodeunitModuleDir" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="testType" value="JS_FILE" />
+      <setting name="jsFile" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" server_name="zs">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd4d2984-5496-4a28-9e14-d5f0fad3ccbb" name="Default" comment="" />
+      <created>1496510106928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496510106928</updated>
+      <workItem from="1496510108427" duration="208000" />
+      <workItem from="1496510335989" duration="14000" />
+      <workItem from="1496510515974" duration="15917000" />
+      <workItem from="1496643665197" duration="3836000" />
+      <workItem from="1496658867871" duration="1019000" />
+      <workItem from="1496660882080" duration="2169000" />
+      <workItem from="1496736142652" duration="671000" />
+      <workItem from="1497260665049" duration="13042000" />
+      <workItem from="1497329059256" duration="62000" />
+      <workItem from="1497366395951" duration="2994000" />
+      <workItem from="1497415080679" duration="654000" />
+      <workItem from="1497527340223" duration="2393000" />
+      <workItem from="1497808952046" duration="6061000" />
+      <workItem from="1497848561829" duration="116000" />
+      <workItem from="1498040009113" duration="653000" />
+      <workItem from="1498043811174" duration="6984000" />
+      <workItem from="1498062626946" duration="6357000" />
+      <workItem from="1498121981615" duration="1822000" />
+      <workItem from="1498199364344" duration="51000" />
+      <workItem from="1498200010119" duration="647000" />
+      <workItem from="1498208829939" duration="1350000" />
+      <workItem from="1498211363085" duration="29000" />
+      <workItem from="1498394484408" duration="16214000" />
+      <workItem from="1498452547937" duration="200000" />
+      <workItem from="1498986255709" duration="4752000" />
+      <workItem from="1499008373393" duration="2480000" />
+      <workItem from="1499066561161" duration="6491000" />
+      <workItem from="1499087873267" duration="9617000" />
+      <workItem from="1499142476620" duration="678000" />
+      <workItem from="1499167795772" duration="4049000" />
+      <workItem from="1499180238242" duration="7466000" />
+      <workItem from="1499228462031" duration="5212000" />
+      <workItem from="1499234484688" duration="905000" />
+      <workItem from="1499334029370" duration="5318000" />
+      <workItem from="1499340059818" duration="65000" />
+      <workItem from="1499613536595" duration="7832000" />
+      <workItem from="1499663718863" duration="8322000" />
+      <workItem from="1499695232252" duration="11378000" />
+      <workItem from="1499715213970" duration="5463000" />
+      <workItem from="1499722246853" duration="672000" />
+      <workItem from="1499748090773" duration="8913000" />
+      <workItem from="1499777237123" duration="51000" />
+      <workItem from="1499795939714" duration="2245000" />
+      <workItem from="1499838364881" duration="608000" />
+      <workItem from="1499851429178" duration="1000" />
+      <workItem from="1499851464038" duration="1278000" />
+      <workItem from="1499873920290" duration="453000" />
+      <workItem from="1499957301210" duration="1893000" />
+      <workItem from="1500017410194" duration="965000" />
+      <workItem from="1500060158049" duration="2673000" />
+      <workItem from="1500196224308" duration="51000" />
+      <workItem from="1500196360235" duration="629000" />
+      <workItem from="1500198023540" duration="33000" />
+      <workItem from="1500198237859" duration="9743000" />
+      <workItem from="1500270733569" duration="63000" />
+      <workItem from="1508994029075" duration="656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="202991000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.091145836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285568" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33164302" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25281474" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../../htdocs/Summarization/WordCounter.php</url>
+          <line>83</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../../htdocs/Summarization/WordCounter.php</url>
+          <line>76</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../../htdocs/Summarization/WordCounter.php</url>
+          <line>75</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="214" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/include/blocks/callback2.php" />
+    <entry file="file://$PROJECT_DIR$/include/blocks/callback1.php" />
+    <entry file="file://$PROJECT_DIR$/sitemap_iblock_2.xml" />
+    <entry file="file://$PROJECT_DIR$/sitemap.xml" />
+    <entry file="file://$PROJECT_DIR$/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/build/js/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/build/js/app.min.js" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/components/remark/iblock.element.add.form/call_on_detail/template.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/components/remark/iblock.element.add.form/call3/template.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/components/remark/iblock.element.add.form/call1/template.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/components/remark/iblock.element.add.form/call2/template.php" />
+    <entry file="file://$PROJECT_DIR$/include/blocks/products.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/components/bitrix/news.list/products_new/style.css" />
+    <entry file="file://$PROJECT_DIR$/bitrix/urlrewrite.php" />
+    <entry file="file://$PROJECT_DIR$/local/php_interface/const.php" />
+    <entry file="file://$PROJECT_DIR$/urlrewrite.php" />
+    <entry file="file://$PROJECT_DIR$/../localhost/bitrix/admin/index.php" />
+    <entry file="file://$PROJECT_DIR$/../localhost/equipment/index.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/components/bitrix/news.detail/product/template.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/footer.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/components/bitrix/news.list/advantages_slider/template.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/build_old/product_card.html" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/build/product_card.html" />
+    <entry file="file://$PROJECT_DIR$/include/blocks/crumbs.php" />
+    <entry file="file://$PROJECT_DIR$/detail.php" />
+    <entry file="file://$PROJECT_DIR$/include/blocks/advantages_slider.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/build/js/jquery.waypoints.min.js" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/build/js/main.min.js" />
+    <entry file="file://$PROJECT_DIR$/../localhost/forms.php" />
+    <entry file="file://$PROJECT_DIR$/local/php_interface/init.php" />
+    <entry file="file://$PROJECT_DIR$/sitemap_generator.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/build/index.html" />
+    <entry file="file://$PROJECT_DIR$/local/php_interface/functions.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/header.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/components/bitrix/news.list/products_new/template.php" />
+    <entry file="file://$PROJECT_DIR$/local/templates/import_sport/components/bitrix/news.list/products_slider/template.php" />
+    <entry file="file://$PROJECT_DIR$/Response/Response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="36" column="32" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Response/ResponseHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="50" column="10" lean-forward="false" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Settings/SettingsPicker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB/CachingWorker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <marker date="1500207417000" expanded="true" signature="502:548" ph="INSERT INTO xml_cache... " />
+            <marker date="1500207417000" expanded="true" signature="791:846" ph="SELECT xml, xml_cache" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/script_to_srv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/agsum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="166" column="5" lean-forward="true" selection-start-line="166" selection-start-column="5" selection-end-line="166" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="58" column="6" lean-forward="false" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="17" column="49" lean-forward="true" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB/General.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="80" lean-forward="false" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
+          <folding>
+            <marker date="1508946016922" expanded="true" signature="341:365" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="256" column="21" lean-forward="false" selection-start-line="256" selection-start-column="21" selection-end-line="256" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
